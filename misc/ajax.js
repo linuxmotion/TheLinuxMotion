@@ -1,4 +1,4 @@
-// $Id$
+// $Id: ajax.js,v 1.35 2010/12/23 04:26:31 webchick Exp $
 (function ($) {
 
 /**

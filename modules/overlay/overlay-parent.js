@@ -1,4 +1,4 @@
-// $Id$
+// $Id: overlay-parent.js,v 1.57 2010/11/06 00:18:24 dries Exp $
 
 (function ($) {
 

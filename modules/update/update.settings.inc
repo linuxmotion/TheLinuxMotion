@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: update.settings.inc,v 1.11 2010/06/26 21:32:20 dries Exp $
 
 /**
  * @file

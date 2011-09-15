@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: template.php,v 1.45 2010/12/01 00:18:15 webchick Exp $
 
 /**
  * Return a themed breadcrumb trail.

@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: node.api.php,v 1.83 2011/01/03 18:03:54 webchick Exp $
 
 /**
  * @file

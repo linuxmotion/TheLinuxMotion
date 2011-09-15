@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: common.inc,v 1.1283 2011/01/03 06:51:00 webchick Exp $
 
 /**
  * @file

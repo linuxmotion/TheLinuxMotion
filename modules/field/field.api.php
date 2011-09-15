@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: field.api.php,v 1.101 2010/12/14 19:50:05 dries Exp $
 
 /**
  * @ingroup field_fieldable_type

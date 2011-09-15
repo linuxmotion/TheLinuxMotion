@@ -1,4 +1,4 @@
-// $Id$
+// $Id: MAINTAINERS.txt,v 1.53 2011/01/04 01:03:23 webchick Exp $
 
 Drupal core is maintained by the community.  To participate, go to
 

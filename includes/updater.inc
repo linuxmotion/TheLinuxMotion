@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: updater.inc,v 1.8 2011/01/02 23:28:16 webchick Exp $
 
 /**
  * @file

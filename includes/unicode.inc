@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: unicode.inc,v 1.48 2010/12/28 18:21:58 webchick Exp $
 
 /**
  * Indicates an error during check for PHP unicode support.

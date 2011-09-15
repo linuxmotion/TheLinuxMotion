@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: forum-list.tpl.php,v 1.5 2008/10/13 12:31:42 dries Exp $
 
 /**
  * @file

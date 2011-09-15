@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: image.field.inc,v 1.34 2010/10/31 12:12:00 dries Exp $
 
 /**
  * @file

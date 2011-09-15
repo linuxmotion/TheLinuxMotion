@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: filetransfer.inc,v 1.14 2011/01/03 02:20:45 webchick Exp $
 
 /*
  * Base FileTransfer class.

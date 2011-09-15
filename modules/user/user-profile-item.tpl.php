@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: user-profile-item.tpl.php,v 1.3 2008/10/13 12:31:43 dries Exp $
 
 /**
  * @file

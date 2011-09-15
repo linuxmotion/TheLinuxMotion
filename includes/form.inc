@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: form.inc,v 1.520 2011/01/04 16:46:24 webchick Exp $
 
 /**
  * @defgroup forms Form builder functions

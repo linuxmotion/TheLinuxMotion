@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: search.extender.inc,v 1.10 2010/11/22 07:32:12 webchick Exp $
 
 /**
  * @file

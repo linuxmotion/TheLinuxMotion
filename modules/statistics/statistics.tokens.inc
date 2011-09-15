@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: statistics.tokens.inc,v 1.4 2010/04/20 09:48:06 webchick Exp $
 
 /**
  * @file

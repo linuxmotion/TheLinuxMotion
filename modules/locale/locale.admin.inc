@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: locale.admin.inc,v 1.23 2011/01/03 18:03:54 webchick Exp $
 
 /**
  * @file

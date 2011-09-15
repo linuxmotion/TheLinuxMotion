@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: image.gd.inc,v 1.18 2010/10/28 02:27:09 dries Exp $
 
 /**
  * @file

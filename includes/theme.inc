@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: theme.inc,v 1.627 2011/01/03 08:02:11 webchick Exp $
 
 /**
  * @file

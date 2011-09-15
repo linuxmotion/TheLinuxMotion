@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: dashboard.module,v 1.41 2010/11/06 23:24:33 webchick Exp $
 
 /**
  * Implements hook_help().

@@ -1,4 +1,4 @@
-// $Id$
+// $Id: collapse.js,v 1.32 2010/05/14 16:45:56 dries Exp $
 (function ($) {
 
 /**

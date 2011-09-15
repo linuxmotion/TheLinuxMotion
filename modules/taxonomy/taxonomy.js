@@ -1,4 +1,4 @@
-// $Id$
+// $Id: taxonomy.js,v 1.7 2010/01/04 12:04:07 dries Exp $
 (function ($) {
 
 /**

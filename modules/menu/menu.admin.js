@@ -1,4 +1,4 @@
-// $Id$
+// $Id: menu.admin.js,v 1.1 2009/10/13 01:25:58 dries Exp $
 
 (function ($) {
 

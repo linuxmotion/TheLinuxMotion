@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: contact.test,v 1.45 2010/08/05 23:53:37 webchick Exp $
 
 /**
  * Test the sitewide contact form.

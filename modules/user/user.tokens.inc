@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: user.tokens.inc,v 1.9 2010/12/09 08:01:56 webchick Exp $
 
 /**
  * @file

@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: html.tpl.php,v 1.6 2010/11/24 03:30:59 webchick Exp $
 
 /**
  * @file

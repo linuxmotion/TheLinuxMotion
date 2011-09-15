@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: drupal_web_test_case.php,v 1.257 2011/01/02 23:54:05 webchick Exp $
 
 /**
  * Global variable that holds information about the tests being run.

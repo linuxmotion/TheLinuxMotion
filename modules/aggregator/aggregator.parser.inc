@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: aggregator.parser.inc,v 1.10 2010/07/24 17:42:22 dries Exp $
 
 /**
  * @file

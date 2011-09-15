@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: book.admin.inc,v 1.39 2011/01/03 07:34:46 webchick Exp $
 
 /**
  * @file

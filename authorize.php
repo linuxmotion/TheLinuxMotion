@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: authorize.php,v 1.12 2010/12/29 04:07:52 webchick Exp $
 
 /**
  * @file

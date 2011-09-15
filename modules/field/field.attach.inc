@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: field.attach.inc,v 1.98 2010/12/07 05:09:58 webchick Exp $
 
 /**
  * @file

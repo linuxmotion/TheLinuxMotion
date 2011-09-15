@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: translation.pages.inc,v 1.18 2010/12/31 20:45:25 webchick Exp $
 
 /**
  * @file

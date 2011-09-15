@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: drupal-6.bare.database.php,v 1.1 2010/06/28 02:05:47 webchick Exp $
 
 /**
  * @file

@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: node.admin.inc,v 1.103 2010/12/09 02:16:21 dries Exp $
 
 /**
  * @file

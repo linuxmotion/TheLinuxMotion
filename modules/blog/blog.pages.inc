@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: blog.pages.inc,v 1.28 2010/08/03 02:02:02 dries Exp $
 
 /**
  * @file

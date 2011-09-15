@@ -1,4 +1,4 @@
-// $Id$
+// $Id: field_ui.js,v 1.8 2010/11/21 08:50:49 webchick Exp $
 
 (function($) {
 

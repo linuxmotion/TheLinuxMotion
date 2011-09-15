@@ -1,4 +1,4 @@
-// $Id$
+// $Id: contextual.js,v 1.6 2010/11/16 18:43:06 dries Exp $
 (function ($) {
 
 Drupal.contextualLinks = Drupal.contextualLinks || {};

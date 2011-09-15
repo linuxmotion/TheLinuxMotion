@@ -1,4 +1,4 @@
-// $Id$
+// $Id: drupal.js,v 1.72 2011/01/01 04:11:39 webchick Exp $
 
 var Drupal = Drupal || { 'settings': {}, 'behaviors': {}, 'locale': {} };
 

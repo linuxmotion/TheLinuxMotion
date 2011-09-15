@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: example.sites.php,v 1.3 2010/04/15 12:01:28 dries Exp $
 
 /**
  * @file

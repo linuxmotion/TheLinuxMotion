@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: book.test,v 1.28 2010/10/18 05:53:34 webchick Exp $
 
 class BookTestCase extends DrupalWebTestCase {
   protected $book;

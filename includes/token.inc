@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: token.inc,v 1.10 2010/10/18 01:13:07 dries Exp $
 
 /**
  * @file

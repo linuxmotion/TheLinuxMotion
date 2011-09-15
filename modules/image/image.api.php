@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: image.api.php,v 1.5 2010/09/11 01:54:43 dries Exp $
 
 /**
  * @file

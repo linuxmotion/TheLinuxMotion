@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: database.inc,v 1.34 2010/10/03 01:29:41 dries Exp $
 
 /**
  * @file

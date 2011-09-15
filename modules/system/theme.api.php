@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: theme.api.php,v 1.5 2011/01/03 18:03:54 webchick Exp $
 
 /**
  * @defgroup themeable Default theme implementations

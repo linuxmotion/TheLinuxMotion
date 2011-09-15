@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: path.admin.inc,v 1.45 2010/09/11 03:04:43 dries Exp $
 
 /**
  * @file

@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: cache-install.inc,v 1.9 2010/05/18 18:26:30 dries Exp $
 
 /**
  * @file

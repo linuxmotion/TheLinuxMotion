@@ -1,4 +1,4 @@
-// $Id$
+// $Id: content_types.js,v 1.10 2010/05/05 06:55:25 webchick Exp $
 (function ($) {
 
 Drupal.behaviors.contentTypes = {

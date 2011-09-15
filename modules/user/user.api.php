@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: user.api.php,v 1.27 2010/12/11 19:16:42 webchick Exp $
 
 /**
  * @file

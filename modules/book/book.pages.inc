@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: book.pages.inc,v 1.27 2010/07/07 01:07:33 dries Exp $
 
 /**
  * @file

@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: menu.inc,v 1.431 2011/01/04 06:20:30 dries Exp $
 
 /**
  * @file

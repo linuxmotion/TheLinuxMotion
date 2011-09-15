@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: system.test,v 1.153 2010/12/01 00:23:36 webchick Exp $
 
 /**
  * Helper class for module test cases.

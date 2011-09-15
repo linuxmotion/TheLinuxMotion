@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: forum-icon.tpl.php,v 1.8 2010/11/22 08:07:57 webchick Exp $
 
 /**
  * @file

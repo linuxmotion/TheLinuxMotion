@@ -1,4 +1,4 @@
-// $Id$
+// $Id: textarea.js,v 1.31 2010/03/09 11:45:37 dries Exp $
 (function ($) {
 
 Drupal.behaviors.textarea = {

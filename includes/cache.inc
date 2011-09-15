@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: cache.inc,v 1.51 2010/12/01 00:26:03 webchick Exp $
 
 /**
  * Get the cache object for a cache bin.
